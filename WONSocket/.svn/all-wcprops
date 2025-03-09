@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket
+END
+UDPManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/UDPManager.cpp
+END
+SocketThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/SocketThread.h
+END
+AsyncSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/AsyncSocket.cpp
+END
+SocketOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/SocketOp.cpp
+END
+ConnectOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/ConnectOp.cpp
+END
+RecvSomeBytesOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/RecvSomeBytesOp.cpp
+END
+RecvCRMsgOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/RecvCRMsgOp.cpp
+END
+SocketThreadSimple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/SocketThreadSimple.cpp
+END
+SocketThreadEx_Windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/SocketThreadEx_Windows.h
+END
+SocketThreadEx_Linux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/SocketThreadEx_Linux.cpp
+END
+SendFileOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/SendFileOp.h
+END
+RecvBytesFromOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/RecvBytesFromOp.h
+END
+AcceptOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/AcceptOp.cpp
+END
+SocketThreadWinsock2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/SocketThreadWinsock2.cpp
+END
+BlockingSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/BlockingSocket.cpp
+END
+QueueSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/QueueSocket.h
+END
+CloseOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/CloseOp.cpp
+END
+SendMsgOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/SendMsgOp.h
+END
+SendBytesOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/SendBytesOp.h
+END
+NetStats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/NetStats.cpp
+END
+SendBytesToOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/SendBytesToOp.h
+END
+IPAddr.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/IPAddr.h
+END
+RecvMsgOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/RecvMsgOp.h
+END
+RecvBytesOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/RecvBytesOp.h
+END
+vssver.scc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/vssver.scc
+END
+SocketThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/SocketThread.cpp
+END
+SocketThreadEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/SocketThreadEx.h
+END
+SocketThreadEx_Windows.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/SocketThreadEx_Windows.cpp
+END
+UDPManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/UDPManager.h
+END
+SendFileOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/SendFileOp.cpp
+END
+Socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/Socket.cpp
+END
+RecvBytesFromOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/RecvBytesFromOp.cpp
+END
+AsyncSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/AsyncSocket.h
+END
+SocketOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/SocketOp.h
+END
+QueueSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/QueueSocket.cpp
+END
+ConnectOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/ConnectOp.h
+END
+RecvSomeBytesOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/RecvSomeBytesOp.h
+END
+SendBytesOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/SendBytesOp.cpp
+END
+SocketThreadSimple.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/SocketThreadSimple.h
+END
+SendMsgOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/SendMsgOp.cpp
+END
+RecvCRMsgOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/RecvCRMsgOp.h
+END
+SocketThreadEx_Linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/SocketThreadEx_Linux.h
+END
+SendBytesToOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/SendBytesToOp.cpp
+END
+AcceptOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/AcceptOp.h
+END
+IPAddr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/IPAddr.cpp
+END
+RecvBytesOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/RecvBytesOp.cpp
+END
+RecvMsgOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/RecvMsgOp.cpp
+END
+SocketThreadWinsock2.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/SocketThreadWinsock2.h
+END
+BlockingSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/BlockingSocket.h
+END
+CloseOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/CloseOp.h
+END
+NetStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/NetStats.h
+END
+SocketThreadEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONSocket/SocketThreadEx.cpp
+END

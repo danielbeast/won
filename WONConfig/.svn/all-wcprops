@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONConfig
+END
+ConfigObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONConfig/ConfigObject.cpp
+END
+vssver.scc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONConfig/vssver.scc
+END
+ConfigObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONConfig/ConfigObject.h
+END
+ConfigParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONConfig/ConfigParser.cpp
+END
+ConfigValue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONConfig/ConfigValue.cpp
+END
+StringParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONConfig/StringParser.cpp
+END
+Config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONConfig/Config.cpp
+END
+ConfigValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONConfig/ConfigValue.h
+END
+ConfigParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONConfig/ConfigParser.h
+END
+StringParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONConfig/StringParser.h
+END

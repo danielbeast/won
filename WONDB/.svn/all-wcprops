@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB
+END
+ContestCallOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/ContestCallOp.cpp
+END
+SetProfileOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/SetProfileOp.cpp
+END
+EventReportOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/EventReportOp.cpp
+END
+vssver.scc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/vssver.scc
+END
+CreateAccountOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/CreateAccountOp.cpp
+END
+GetUserIdFromNameOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/GetUserIdFromNameOp.cpp
+END
+ContestCallOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/ContestCallOp.h
+END
+SetProfileOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/SetProfileOp.h
+END
+EventReportOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/EventReportOp.h
+END
+RequestPasswordEmailOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/RequestPasswordEmailOp.cpp
+END
+GetUserIdFromNameOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/GetUserIdFromNameOp.h
+END
+CreateAccountOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/CreateAccountOp.h
+END
+DB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/DB.cpp
+END
+DBProxyOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/DBProxyOp.cpp
+END
+RequestPasswordEmailOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/RequestPasswordEmailOp.h
+END
+RequestAccountInfoEmailOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/RequestAccountInfoEmailOp.cpp
+END
+ProfileData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/ProfileData.cpp
+END
+GetAccountOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/GetAccountOp.cpp
+END
+DBProxyOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/DBProxyOp.h
+END
+RequestAccountInfoEmailOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/RequestAccountInfoEmailOp.h
+END
+UpdateAccountOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/UpdateAccountOp.cpp
+END
+GetProfileOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/GetProfileOp.cpp
+END
+ProfileData.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/ProfileData.h
+END
+GetAccountOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/GetAccountOp.h
+END
+UpdateAccountOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/UpdateAccountOp.h
+END
+GetProfileOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDB/GetProfileOp.h
+END

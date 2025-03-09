@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir
+END
+RenameEntityOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/RenameEntityOp.h
+END
+DirTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/DirTypes.h
+END
+DirEntity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/DirEntity.cpp
+END
+GetDirOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/GetDirOp.cpp
+END
+RenewEntityOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/RenewEntityOp.h
+END
+FindEntityOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/FindEntityOp.h
+END
+GetAliasDirOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/GetAliasDirOp.cpp
+END
+ModifyEntityOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/ModifyEntityOp.h
+END
+GetMultiDirOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/GetMultiDirOp.cpp
+END
+AddEntityOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/AddEntityOp.h
+END
+GetEntityRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/GetEntityRequest.h
+END
+EntitySetDataObjectsOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/EntitySetDataObjectsOp.cpp
+END
+EntityClearDataObjectsOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/EntityClearDataObjectsOp.h
+END
+EntityModifyDataObjectsOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/EntityModifyDataObjectsOp.h
+END
+RemoveEntityOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/RemoveEntityOp.h
+END
+GetServiceOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/GetServiceOp.cpp
+END
+RenameEntityOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/RenameEntityOp.cpp
+END
+DirEntityReplyParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/DirEntityReplyParser.h
+END
+RenewEntityOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/RenewEntityOp.cpp
+END
+FindEntityOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/FindEntityOp.cpp
+END
+Dir.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/Dir.cpp
+END
+vssver.scc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/vssver.scc
+END
+DirEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/DirEntity.h
+END
+GetDirOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/GetDirOp.h
+END
+ModifyEntityOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/ModifyEntityOp.cpp
+END
+AddEntityOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/AddEntityOp.cpp
+END
+GetEntityRequest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/GetEntityRequest.cpp
+END
+EntityClearDataObjectsOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/EntityClearDataObjectsOp.cpp
+END
+EntityModifyDataObjectsOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/EntityModifyDataObjectsOp.cpp
+END
+RemoveEntityOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/RemoveEntityOp.cpp
+END
+GetAliasDirOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/GetAliasDirOp.h
+END
+GetMultiDirOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/GetMultiDirOp.h
+END
+EntitySetDataObjectsOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/EntitySetDataObjectsOp.h
+END
+GetServiceOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/GetServiceOp.h
+END
+DirEntityReplyParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONDir/DirEntityReplyParser.cpp
+END

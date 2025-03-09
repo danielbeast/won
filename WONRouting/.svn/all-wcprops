@@ -1,0 +1,809 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting
+END
+RoutingClientJoinedServerOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingClientJoinedServerOp.cpp
+END
+RoutingGetGroupListReqOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGetGroupListReqOp.cpp
+END
+RoutingSetGroupPasswordOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingSetGroupPasswordOp.h
+END
+vssver.scc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/vssver.scc
+END
+RoutingAbortServShutdownOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingAbortServShutdownOp.h
+END
+RoutingJoinGroupOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingJoinGroupOp.cpp
+END
+RoutingLeaveGroupOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingLeaveGroupOp.h
+END
+RoutingGroupCaptChangedOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGroupCaptChangedOp.cpp
+END
+RoutingClientLeftServerOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingClientLeftServerOp.h
+END
+RoutingCreateGroupOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingCreateGroupOp.h
+END
+RoutingGroupDeletedOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGroupDeletedOp.h
+END
+RoutingDataObjectCreatedOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingDataObjectCreatedOp.cpp
+END
+RoutingSetGroupPasswordOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingSetGroupPasswordOp.cpp
+END
+RoutingGetMembersOfGroupOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGetMembersOfGroupOp.cpp
+END
+RoutingDetectFirewallOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingDetectFirewallOp.cpp
+END
+AllRoutingOps.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/AllRoutingOps.h
+END
+RoutingClientJoinedServerOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingClientJoinedServerOp.h
+END
+RoutingAbortServShutdownOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingAbortServShutdownOp.cpp
+END
+RoutingClientFlagsChangedOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingClientFlagsChangedOp.cpp
+END
+RoutingSendComplaintOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingSendComplaintOp.h
+END
+RoutingMuteClientOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingMuteClientOp.cpp
+END
+RoutingSetGroupNameOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingSetGroupNameOp.cpp
+END
+RoutingBecomeModeratorOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingBecomeModeratorOp.h
+END
+RoutingGroupObserverCountOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGroupObserverCountOp.cpp
+END
+RoutingDerivedServerOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingDerivedServerOp.h
+END
+RoutingGroupJoinAttemptOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGroupJoinAttemptOp.h
+END
+RoutingGetUserStatusOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGetUserStatusOp.cpp
+END
+RoutingGroupDeletedOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGroupDeletedOp.cpp
+END
+RoutingGroupCaptChangedOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGroupCaptChangedOp.h
+END
+RoutingOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingOp.h
+END
+RoutingCreateDataObjectOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingCreateDataObjectOp.cpp
+END
+RoutingGetBadUserListOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGetBadUserListOp.h
+END
+RoutingSendChatOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingSendChatOp.cpp
+END
+RoutingInviteClientOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingInviteClientOp.cpp
+END
+RoutingDataObjectModifiedOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingDataObjectModifiedOp.cpp
+END
+RoutingDetectFirewallOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingDetectFirewallOp.h
+END
+RoutingConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingConnection.h
+END
+RoutingBecomeModeratorOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingBecomeModeratorOp.cpp
+END
+RoutingGroupJoinAttemptOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGroupJoinAttemptOp.cpp
+END
+RoutingGroupNameChangedOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGroupNameChangedOp.h
+END
+RoutingSetGroupMaxPlayersOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingSetGroupMaxPlayersOp.cpp
+END
+RoutingOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingOp.cpp
+END
+RoutingCancelJoinGroupOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingCancelJoinGroupOp.cpp
+END
+RoutingGroupCreatedOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGroupCreatedOp.cpp
+END
+RoutingClientJoinedGroupOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingClientJoinedGroupOp.cpp
+END
+RoutingSetGroupFlagsOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingSetGroupFlagsOp.cpp
+END
+RoutingGetUserStatusOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGetUserStatusOp.h
+END
+RoutingPeerDataOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingPeerDataOp.h
+END
+RoutingStartServShutdownOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingStartServShutdownOp.h
+END
+RoutingPeerChatOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingPeerChatOp.h
+END
+RoutingReadDataObjectOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingReadDataObjectOp.h
+END
+RoutingBanClientOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingBanClientOp.h
+END
+RoutingGroupNameChangedOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGroupNameChangedOp.cpp
+END
+SmartRoutingConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/SmartRoutingConnection.h
+END
+RoutingUnsubDataObjectOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingUnsubDataObjectOp.cpp
+END
+RoutingCreateGroupOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingCreateGroupOp.cpp
+END
+RoutingClientLeftServerOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingClientLeftServerOp.cpp
+END
+RoutingSetGroupMaxPlayersOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingSetGroupMaxPlayersOp.h
+END
+RoutingCancelJoinGroupOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingCancelJoinGroupOp.h
+END
+RoutingGroupFlagsChangedOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGroupFlagsChangedOp.h
+END
+RoutingServShutdownStartOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingServShutdownStartOp.cpp
+END
+RoutingPeerChatOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingPeerChatOp.cpp
+END
+RoutingDisconnectClientOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingDisconnectClientOp.h
+END
+RoutingGroupMemberCountOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGroupMemberCountOp.cpp
+END
+RoutingServerAlertOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingServerAlertOp.cpp
+END
+RoutingAcceptClientOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingAcceptClientOp.cpp
+END
+RoutingBanClientOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingBanClientOp.cpp
+END
+RoutingSendComplaintOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingSendComplaintOp.cpp
+END
+RoutingGroupInvitationOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGroupInvitationOp.cpp
+END
+RoutingClientLeftGroupOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingClientLeftGroupOp.cpp
+END
+SmartRoutingConnection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/SmartRoutingConnection.cpp
+END
+RoutingServShutdownAbortOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingServShutdownAbortOp.h
+END
+RoutingGetClientListOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGetClientListOp.cpp
+END
+RoutingClientFlagsChangedOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingClientFlagsChangedOp.h
+END
+RoutingTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingTypes.h
+END
+RoutingSetClientFlagsOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingSetClientFlagsOp.h
+END
+RoutingModifyDataObjectOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingModifyDataObjectOp.h
+END
+RoutingGroupMPlyrsChangedOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGroupMPlyrsChangedOp.cpp
+END
+RoutingSendServerAlertOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingSendServerAlertOp.h
+END
+RoutingMuteClientOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingMuteClientOp.h
+END
+RoutingSetGroupNameOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingSetGroupNameOp.h
+END
+RoutingGroupObserverCountOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGroupObserverCountOp.h
+END
+RoutingGroupFlagsChangedOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGroupFlagsChangedOp.cpp
+END
+RoutingSendDataOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingSendDataOp.h
+END
+RoutingGetGroupListOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGetGroupListOp.h
+END
+RoutingSendChatOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingSendChatOp.h
+END
+RoutingYouWereMutedOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingYouWereMutedOp.cpp
+END
+RoutingConnection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingConnection.cpp
+END
+RoutingInviteClientOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingInviteClientOp.h
+END
+RoutingServerAlertOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingServerAlertOp.h
+END
+RoutingServShutdownAbortOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingServShutdownAbortOp.cpp
+END
+RoutingAcceptClientOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingAcceptClientOp.h
+END
+RoutingGetGroupListReqOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGetGroupListReqOp.h
+END
+RoutingDataObjectModifiedOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingDataObjectModifiedOp.h
+END
+RoutingSetClientFlagsOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingSetClientFlagsOp.cpp
+END
+RoutingLeaveGroupOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingLeaveGroupOp.cpp
+END
+RoutingClientLeftGroupOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingClientLeftGroupOp.h
+END
+RoutingGetClientListOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGetClientListOp.h
+END
+RoutingJoinGroupOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingJoinGroupOp.h
+END
+RoutingSendDataOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingSendDataOp.cpp
+END
+RoutingRelinquishCaptainOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingRelinquishCaptainOp.h
+END
+RoutingRegisterClientOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingRegisterClientOp.h
+END
+RoutingSetGroupFlagsOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingSetGroupFlagsOp.h
+END
+RoutingReadDataObjectOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingReadDataObjectOp.cpp
+END
+RoutingDataObjectCreatedOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingDataObjectCreatedOp.h
+END
+RoutingMemberFlagsChangedOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingMemberFlagsChangedOp.cpp
+END
+RoutingGetMembersOfGroupOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGetMembersOfGroupOp.h
+END
+RoutingYouWereMutedOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingYouWereMutedOp.h
+END
+RoutingDerivedServerOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingDerivedServerOp.cpp
+END
+RoutingYouWereBannedOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingYouWereBannedOp.h
+END
+RoutingGetBadUserListOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGetBadUserListOp.cpp
+END
+RoutingUnsubDataObjectOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingUnsubDataObjectOp.h
+END
+RoutingRelinquishCaptainOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingRelinquishCaptainOp.cpp
+END
+RoutingRegisterClientOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingRegisterClientOp.cpp
+END
+RoutingDisconnectClientOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingDisconnectClientOp.cpp
+END
+RoutingDeleteDataObjectOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingDeleteDataObjectOp.h
+END
+RoutingCreateDataObjectOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingCreateDataObjectOp.h
+END
+RoutingDataObjectDeletedOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingDataObjectDeletedOp.h
+END
+RoutingServShutdownStartOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingServShutdownStartOp.h
+END
+RoutingGroupMemberCountOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGroupMemberCountOp.h
+END
+RoutingMemberFlagsChangedOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingMemberFlagsChangedOp.h
+END
+RoutingGroupInvitationOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGroupInvitationOp.h
+END
+RoutingYouWereBannedOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingYouWereBannedOp.cpp
+END
+RoutingModifyDataObjectOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingModifyDataObjectOp.cpp
+END
+RoutingSendServerAlertOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingSendServerAlertOp.cpp
+END
+Routing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/Routing.cpp
+END
+RoutingGroupMPlyrsChangedOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGroupMPlyrsChangedOp.h
+END
+RoutingDeleteDataObjectOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingDeleteDataObjectOp.cpp
+END
+RoutingPeerDataOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingPeerDataOp.cpp
+END
+RoutingDataObjectDeletedOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingDataObjectDeletedOp.cpp
+END
+RoutingGetGroupListOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGetGroupListOp.cpp
+END
+RoutingStartServShutdownOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingStartServShutdownOp.cpp
+END
+RoutingGroupCreatedOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingGroupCreatedOp.h
+END
+RoutingClientJoinedGroupOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONRouting/RoutingClientJoinedGroupOp.h
+END

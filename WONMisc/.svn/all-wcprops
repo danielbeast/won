@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc
+END
+GetVersionOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/GetVersionOp.cpp
+END
+DNSTestOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/DNSTestOp.h
+END
+PingManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/PingManager.cpp
+END
+PatchTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/PatchTypes.h
+END
+DetectFirewallOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/DetectFirewallOp.cpp
+END
+FTPGetOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/FTPGetOp.h
+END
+ReportPatchStatusOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/ReportPatchStatusOp.cpp
+END
+FindPatchOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/FindPatchOp.cpp
+END
+GetPatchListOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/GetPatchListOp.h
+END
+GetMOTDOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/GetMOTDOp.cpp
+END
+URL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/URL.cpp
+END
+HTTPCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/HTTPCache.cpp
+END
+gqueryreporting.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/gqueryreporting.c
+END
+CheckValidVersionOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/CheckValidVersionOp.h
+END
+GameSpySupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/GameSpySupport.h
+END
+HTTPEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/HTTPEngine.h
+END
+gqueryreporting.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/gqueryreporting.h
+END
+MediaMetrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/MediaMetrix.h
+END
+vssver.scc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/vssver.scc
+END
+GetHTTPDocumentOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/GetHTTPDocumentOp.h
+END
+DNSTestOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/DNSTestOp.cpp
+END
+HTTPGetOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/HTTPGetOp.h
+END
+PatchTypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/PatchTypes.cpp
+END
+FTPGetOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/FTPGetOp.cpp
+END
+GetVersionOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/GetVersionOp.h
+END
+GetPatchListOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/GetPatchListOp.cpp
+END
+Misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/Misc.cpp
+END
+PingManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/PingManager.h
+END
+nonport.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/nonport.c
+END
+DetectFirewallOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/DetectFirewallOp.h
+END
+GameSpySupport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/GameSpySupport.cpp
+END
+CheckValidVersionOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/CheckValidVersionOp.cpp
+END
+ReportPatchStatusOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/ReportPatchStatusOp.h
+END
+nonport.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/nonport.h
+END
+FindPatchOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/FindPatchOp.h
+END
+HTTPEngine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/HTTPEngine.cpp
+END
+GetMOTDOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/GetMOTDOp.h
+END
+URL.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/URL.h
+END
+HTTPCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/HTTPCache.h
+END
+MediaMetrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/MediaMetrix.cpp
+END
+GetHTTPDocumentOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/GetHTTPDocumentOp.cpp
+END
+HTTPGetOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONMisc/HTTPGetOp.cpp
+END

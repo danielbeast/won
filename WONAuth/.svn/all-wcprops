@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth
+END
+Auth2Certificate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/Auth2Certificate.cpp
+END
+GetCertOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/GetCertOp.cpp
+END
+AuthBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/AuthBase.cpp
+END
+CDKey.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/CDKey.cpp
+END
+AuthPubKeyBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/AuthPubKeyBlock.h
+END
+SPAuthCheck.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/SPAuthCheck.cpp
+END
+AuthCertificate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/AuthCertificate.cpp
+END
+PeerAuthServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/PeerAuthServer.cpp
+END
+AuthCertificateBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/AuthCertificateBase.h
+END
+AuthPeerData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/AuthPeerData.cpp
+END
+PeerAuthServerOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/PeerAuthServerOp.h
+END
+AuthSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/AuthSession.h
+END
+AuthContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/AuthContext.h
+END
+PeerAuthOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/PeerAuthOp.h
+END
+PeerAuthClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/PeerAuthClient.h
+END
+Auth2Certificate.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/Auth2Certificate.h
+END
+AuthPubKeyBlock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/AuthPubKeyBlock.cpp
+END
+AuthBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/AuthBase.h
+END
+GetCertOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/GetCertOp.h
+END
+Auth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/Auth.cpp
+END
+CryptTransform.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/CryptTransform.h
+END
+PeerAuthServerOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/PeerAuthServerOp.cpp
+END
+CDKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/CDKey.h
+END
+AuthSession.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/AuthSession.cpp
+END
+AuthContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/AuthContext.cpp
+END
+SPAuthCheck.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/SPAuthCheck.h
+END
+AuthCertificate.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/AuthCertificate.h
+END
+PeerAuthServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/PeerAuthServer.h
+END
+PeerAuthOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/PeerAuthOp.cpp
+END
+PeerAuthClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/PeerAuthClient.cpp
+END
+AuthPeerData.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/AuthPeerData.h
+END
+vssver.scc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAuth/vssver.scc
+END

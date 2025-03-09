@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault
+END
+StatusDialog.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/StatusDialog.cfg
+END
+InternetOptions.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/InternetOptions.cfg
+END
+DirectConnectDialog.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/DirectConnectDialog.cfg
+END
+ChatCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/ChatCtrl.cfg
+END
+CommonOptions.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/CommonOptions.cfg
+END
+AdminActionDialog.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/AdminActionDialog.cfg
+END
+LostUserNameCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/LostUserNameCtrl.cfg
+END
+_WONStatus.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/_WONStatus.cfg
+END
+LoginHelpCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/LoginHelpCtrl.cfg
+END
+GameOptionsCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/GameOptionsCtrl.cfg
+END
+_LobbyResource.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/_LobbyResource.cfg
+END
+_GameResource.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/_GameResource.cfg
+END
+InternetGameStagingCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/InternetGameStagingCtrl.cfg
+END
+MainInternetTab.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/MainInternetTab.cfg
+END
+MOTDCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/MOTDCtrl.cfg
+END
+GameUserListCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/GameUserListCtrl.cfg
+END
+LostPasswordCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/LostPasswordCtrl.cfg
+END
+RoomDialog.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/RoomDialog.cfg
+END
+PlayerOptionsCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/PlayerOptionsCtrl.cfg
+END
+InitFailedCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/InitFailedCtrl.cfg
+END
+UserListCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/UserListCtrl.cfg
+END
+AddFriendDialog.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/AddFriendDialog.cfg
+END
+LoginStatusCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/LoginStatusCtrl.cfg
+END
+vssver.scc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/vssver.scc
+END
+GameBrowserCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/GameBrowserCtrl.cfg
+END
+ColorScheme.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/ColorScheme.cfg
+END
+BadUserDialog.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/BadUserDialog.cfg
+END
+CreateAccountCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/CreateAccountCtrl.cfg
+END
+MainLanTab.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/MainLanTab.cfg
+END
+ServerListCustomHeader.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/ServerListCustomHeader.cfg
+END
+LoginScreen.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/LoginScreen.cfg
+END
+DirectConnectCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/DirectConnectCtrl.cfg
+END
+LanScreen.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/LanScreen.cfg
+END
+FriendsListCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/FriendsListCtrl.cfg
+END
+InternetQuickPlay.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/InternetQuickPlay.cfg
+END
+ChooseNetworkAdapterDialog.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/ChooseNetworkAdapterDialog.cfg
+END
+GameStagingCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/GameStagingCtrl.cfg
+END
+CreditsDialog.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/CreditsDialog.cfg
+END
+GettingStartedCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/GettingStartedCtrl.cfg
+END
+CreateGameDialog.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/CreateGameDialog.cfg
+END
+CreateRoomDialog.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/CreateRoomDialog.cfg
+END
+_LobbyMaster.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/_LobbyMaster.cfg
+END
+PasswordDialog.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/PasswordDialog.cfg
+END
+RootScreen.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/RootScreen.cfg
+END
+UpdateAccountCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/UpdateAccountCtrl.cfg
+END
+LanOptions.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/LanOptions.cfg
+END
+UserListTabCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/UserListTabCtrl.cfg
+END
+TOUDialog.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/TOUDialog.cfg
+END
+ServerListCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/ServerListCtrl.cfg
+END
+InternetScreen.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/InternetScreen.cfg
+END
+_LobbySkin.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/_LobbySkin.cfg
+END
+LANNameDialog.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/LANNameDialog.cfg
+END
+GenericDialog.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/GenericDialog.cfg
+END
+LoginCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/LoginCtrl.cfg
+END
+OkCancelDialog.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/OkCancelDialog.cfg
+END
+LANPortDialog.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/LANPortDialog.cfg
+END
+GameStagingTabs.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/GameStagingTabs.cfg
+END
+RoomCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/RoomCtrl.cfg
+END
+RoomLabelCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/Resources/LobbyDefault/RoomLabelCtrl.cfg
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGameSpy
+END
+GameSpy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGameSpy/GameSpy.cpp
+END
+gqueryreporting.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGameSpy/gqueryreporting.c
+END
+GameSpySupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGameSpy/GameSpySupport.h
+END
+gqueryreporting.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGameSpy/gqueryreporting.h
+END
+nonport.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGameSpy/nonport.c
+END
+GameSpySupport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGameSpy/GameSpySupport.cpp
+END
+nonport.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGameSpy/nonport.h
+END

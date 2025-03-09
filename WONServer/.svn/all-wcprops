@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONServer
+END
+vssver.scc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONServer/vssver.scc
+END
+ServerRequestOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONServer/ServerRequestOp.cpp
+END
+ServerContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONServer/ServerContext.h
+END
+PingOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONServer/PingOp.h
+END
+ServerRequestOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONServer/ServerRequestOp.h
+END
+ServerOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONServer/ServerOp.cpp
+END
+ServerConnection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONServer/ServerConnection.cpp
+END
+Server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONServer/Server.cpp
+END
+MultiPingOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONServer/MultiPingOp.cpp
+END
+ServerOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONServer/ServerOp.h
+END
+ServerConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONServer/ServerConnection.h
+END
+ServerContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONServer/ServerContext.cpp
+END
+PingOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONServer/PingOp.cpp
+END
+MultiPingOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONServer/MultiPingOp.h
+END

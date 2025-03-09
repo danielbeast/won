@@ -1,0 +1,989 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby
+END
+ChatCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/ChatCtrl.h
+END
+mssccprj.scc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/mssccprj.scc
+END
+ChooseNetworkAdapterDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/ChooseNetworkAdapterDialog.cpp
+END
+LostUserNameCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LostUserNameCtrl.h
+END
+WONLobbyAlone.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/WONLobbyAlone.dsp
+END
+CreateRoomDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/CreateRoomDialog.cpp
+END
+FriendsListCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/FriendsListCtrl.h
+END
+LobbyStagingPrv.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyStagingPrv.h
+END
+ClientOptionsPopup.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/ClientOptionsPopup.h
+END
+RootScreen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/RootScreen.cpp
+END
+LobbyPersistentData.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyPersistentData.h
+END
+LobbyMisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyMisc.h
+END
+TOUDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/TOUDialog.h
+END
+GameUserListCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/GameUserListCtrl.h
+END
+OkCancelDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/OkCancelDialog.cpp
+END
+LobbyFriend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyFriend.cpp
+END
+LanNameDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LanNameDialog.h
+END
+LoginCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LoginCtrl.h
+END
+GameBrowserCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/GameBrowserCtrl.cpp
+END
+LanPortDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LanPortDialog.h
+END
+UserListCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/UserListCtrl.h
+END
+RoutingLogic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/RoutingLogic.cpp
+END
+LostUserNameCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LostUserNameCtrl.cpp
+END
+TestLobby.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/TestLobby.cpp
+END
+DirectConnectDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/DirectConnectDialog.h
+END
+DirectConnectCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/DirectConnectCtrl.cpp
+END
+MiscBuild.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/MiscBuild.cpp
+END
+LoginHelpCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LoginHelpCtrl.h
+END
+vssver.scc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/vssver.scc
+END
+ClientOptionsPopup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/ClientOptionsPopup.cpp
+END
+LobbyPersistentData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyPersistentData.cpp
+END
+CtrlBuild.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/CtrlBuild.cpp
+END
+LobbyGroup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyGroup.cpp
+END
+QuickPlayCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/QuickPlayCtrl.cpp
+END
+LobbyDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyDialog.cpp
+END
+MOTDCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/MOTDCtrl.cpp
+END
+LobbyPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyPlayer.h
+END
+LostPasswordCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LostPasswordCtrl.cpp
+END
+ServerListCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/ServerListCtrl.h
+END
+LobbyConfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyConfig.cpp
+END
+WONStatusString.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/WONStatusString.h
+END
+LanTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LanTypes.h
+END
+SpecialControls.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/SpecialControls.cpp
+END
+LoginHelpCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LoginHelpCtrl.cpp
+END
+LobbyOptionsCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyOptionsCtrl.cpp
+END
+GameOptionsPopup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/GameOptionsPopup.cpp
+END
+RoutingLogic.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/RoutingLogic.h
+END
+DialogLogic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/DialogLogic.cpp
+END
+CreateGameDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/CreateGameDialog.cpp
+END
+DirectConnectCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/DirectConnectCtrl.h
+END
+GameStagingCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/GameStagingCtrl.h
+END
+WONLobbyPrv.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/WONLobbyPrv.h
+END
+LostPasswordCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LostPasswordCtrl.h
+END
+WONStatusString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/WONStatusString.cpp
+END
+LobbyGame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyGame.cpp
+END
+LobbyConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyConfig.h
+END
+CreateAccountCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/CreateAccountCtrl.cpp
+END
+LoginScreen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LoginScreen.cpp
+END
+NetLogic.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/NetLogic.h
+END
+AdminActionDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/AdminActionDialog.h
+END
+FriendsListCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/FriendsListCtrl.cpp
+END
+LogicBuild.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LogicBuild.cpp
+END
+GameOptionsPopup.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/GameOptionsPopup.h
+END
+DialogBuild.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/DialogBuild.cpp
+END
+AccountLogic.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/AccountLogic.h
+END
+PingPainter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/PingPainter.cpp
+END
+PingLogic.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/PingLogic.h
+END
+DialogLogic.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/DialogLogic.h
+END
+CreateGameDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/CreateGameDialog.h
+END
+LobbyMisc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyMisc.cpp
+END
+LobbyResource.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyResource.h
+END
+UpdateAccountCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/UpdateAccountCtrl.cpp
+END
+LobbyStaging.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyStaging.cpp
+END
+CreateRoomDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/CreateRoomDialog.h
+END
+LobbyLogic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyLogic.cpp
+END
+TOUDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/TOUDialog.cpp
+END
+PasswordDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/PasswordDialog.h
+END
+LanLogic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LanLogic.cpp
+END
+LanNameDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LanNameDialog.cpp
+END
+RoomDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/RoomDialog.cpp
+END
+WONLobby.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/WONLobby.dsp
+END
+LanPortDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LanPortDialog.cpp
+END
+UserListCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/UserListCtrl.cpp
+END
+WONLobby.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/WONLobby.h
+END
+ChatCommandParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/ChatCommandParser.h
+END
+RoomLabelCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/RoomLabelCtrl.cpp
+END
+WONLobby.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/WONLobby.dsw
+END
+LobbyGame.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyGame.h
+END
+AdminActionDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/AdminActionDialog.cpp
+END
+WONLobby.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/WONLobby.cfg
+END
+StatusDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/StatusDialog.h
+END
+CreateAccountCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/CreateAccountCtrl.h
+END
+AccountLogic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/AccountLogic.cpp
+END
+StagingLogic.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/StagingLogic.h
+END
+InitLogic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/InitLogic.cpp
+END
+PasswordDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/PasswordDialog.cpp
+END
+ServerListCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/ServerListCtrl.cpp
+END
+LobbyGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyGroup.h
+END
+DataBuild.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/DataBuild.cpp
+END
+LobbyLogic.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyLogic.h
+END
+MOTDCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/MOTDCtrl.h
+END
+AddFriendDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/AddFriendDialog.cpp
+END
+LobbyCompletion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyCompletion.cpp
+END
+ChatCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/ChatCtrl.cpp
+END
+BadUserDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/BadUserDialog.cpp
+END
+RoomLabelCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/RoomLabelCtrl.h
+END
+SpecialControls.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/SpecialControls.h
+END
+StagingLogic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/StagingLogic.cpp
+END
+zzWONVersion.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/zzWONVersion.cfg
+END
+LobbyClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyClient.h
+END
+GameStagingCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/GameStagingCtrl.cpp
+END
+FriendOptionsPopup.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/FriendOptionsPopup.h
+END
+LobbyScreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyScreen.h
+END
+LobbyStagingPrv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyStagingPrv.cpp
+END
+CreditsDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/CreditsDialog.cpp
+END
+LobbyGameMsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyGameMsg.h
+END
+LobbyOptionsCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyOptionsCtrl.h
+END
+LobbyContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyContainer.h
+END
+ChooseNetworkAdapterDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/ChooseNetworkAdapterDialog.h
+END
+LobbyStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyStatus.h
+END
+WONLobbyPrv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/WONLobbyPrv.cpp
+END
+InitLogic.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/InitLogic.h
+END
+RootScreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/RootScreen.h
+END
+InitFailedCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/InitFailedCtrl.cpp
+END
+LobbyServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyServer.h
+END
+LobbyFriend.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyFriend.h
+END
+OkCancelDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/OkCancelDialog.h
+END
+DirectConnectDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/DirectConnectDialog.cpp
+END
+LobbyCompletion.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyCompletion.h
+END
+LobbyClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyClient.cpp
+END
+LobbyEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyEvent.cpp
+END
+LobbyContainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyContainer.cpp
+END
+BadUserDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/BadUserDialog.h
+END
+TestLobby.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/TestLobby.dsp
+END
+PingLogic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/PingLogic.cpp
+END
+LoginScreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LoginScreen.h
+END
+LobbyResource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyResource.cpp
+END
+TestLobby.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/TestLobby.dsw
+END
+CreditsDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/CreditsDialog.h
+END
+LobbyPlayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyPlayer.cpp
+END
+PingPainter.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/PingPainter.h
+END
+LobbyStaging.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyStaging.h
+END
+UpdateAccountCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/UpdateAccountCtrl.h
+END
+ChatCommandParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/ChatCommandParser.cpp
+END
+WONLobby.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/WONLobby.cpp
+END
+LobbyDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyDialog.h
+END
+QuickPlayCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/QuickPlayCtrl.h
+END
+LanLogic.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LanLogic.h
+END
+LobbyServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyServer.cpp
+END
+LoginStatusCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LoginStatusCtrl.cpp
+END
+RoomCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/RoomCtrl.cpp
+END
+RoomDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/RoomDialog.h
+END
+InitFailedCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/InitFailedCtrl.h
+END
+StatusDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/StatusDialog.cpp
+END
+LobbyEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyEvent.h
+END
+GameUserListCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/GameUserListCtrl.cpp
+END
+LoginCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LoginCtrl.cpp
+END
+LobbyTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyTypes.h
+END
+AddFriendDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/AddFriendDialog.h
+END
+RoomCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/RoomCtrl.h
+END
+LoginStatusCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LoginStatusCtrl.h
+END
+FriendOptionsPopup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/FriendOptionsPopup.cpp
+END
+LobbyScreen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/LobbyScreen.cpp
+END
+GameBrowserCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONLobby/GameBrowserCtrl.h
+END

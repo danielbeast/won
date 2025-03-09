@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONUpdate/SierraUp/SierraUpRes
+END
+CommonCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONUpdate/SierraUp/SierraUpRes/CommonCtrl.cfg
+END
+WelcomeCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONUpdate/SierraUp/SierraUpRes/WelcomeCtrl.cfg
+END
+WONUpdate.wbf
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONUpdate/SierraUp/SierraUpRes/WONUpdate.wbf
+END
+MotdCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONUpdate/SierraUp/SierraUpRes/MotdCtrl.cfg
+END
+_UpdateResource.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONUpdate/SierraUp/SierraUpRes/_UpdateResource.cfg
+END
+PatchDetailsCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONUpdate/SierraUp/SierraUpRes/PatchDetailsCtrl.cfg
+END
+OptionalPatchCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONUpdate/SierraUp/SierraUpRes/OptionalPatchCtrl.cfg
+END
+DownloadCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONUpdate/SierraUp/SierraUpRes/DownloadCtrl.cfg
+END
+ConfigProxyCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONUpdate/SierraUp/SierraUpRes/ConfigProxyCtrl.cfg
+END
+_UpdateMaster.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONUpdate/SierraUp/SierraUpRes/_UpdateMaster.cfg
+END
+WebLaunchCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONUpdate/SierraUp/SierraUpRes/WebLaunchCtrl.cfg
+END
+LoginCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONUpdate/SierraUp/SierraUpRes/LoginCtrl.cfg
+END
+AboutCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONUpdate/SierraUp/SierraUpRes/AboutCtrl.cfg
+END
+vssver.scc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONUpdate/SierraUp/SierraUpRes/vssver.scc
+END
+SelectHostCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONUpdate/SierraUp/SierraUpRes/SelectHostCtrl.cfg
+END
+VersionCheckCtrl.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONUpdate/SierraUp/SierraUpRes/VersionCheckCtrl.cfg
+END

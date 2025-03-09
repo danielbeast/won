@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WONAPI", "WONAPI.vcproj", "{A2DBEBF3-83BA-4882-BBF7-D79FC344A847}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug SingleThreaded|Win32 = Debug SingleThreaded|Win32
+		Debug|Win32 = Debug|Win32
+		Dinkumware Release|Win32 = Dinkumware Release|Win32
+		Release SingleThreaded|Win32 = Release SingleThreaded|Win32
+		Release|Win32 = Release|Win32
+		ServerDebug|Win32 = ServerDebug|Win32
+		ServerRelease|Win32 = ServerRelease|Win32
+		ServerWatson|Win32 = ServerWatson|Win32
+		Watson|Win32 = Watson|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2DBEBF3-83BA-4882-BBF7-D79FC344A847}.Debug SingleThreaded|Win32.ActiveCfg = Debug SingleThreaded|Win32
+		{A2DBEBF3-83BA-4882-BBF7-D79FC344A847}.Debug SingleThreaded|Win32.Build.0 = Debug SingleThreaded|Win32
+		{A2DBEBF3-83BA-4882-BBF7-D79FC344A847}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A2DBEBF3-83BA-4882-BBF7-D79FC344A847}.Debug|Win32.Build.0 = Debug|Win32
+		{A2DBEBF3-83BA-4882-BBF7-D79FC344A847}.Dinkumware Release|Win32.ActiveCfg = Dinkumware Release|Win32
+		{A2DBEBF3-83BA-4882-BBF7-D79FC344A847}.Dinkumware Release|Win32.Build.0 = Dinkumware Release|Win32
+		{A2DBEBF3-83BA-4882-BBF7-D79FC344A847}.Release SingleThreaded|Win32.ActiveCfg = Release SingleThreaded|Win32
+		{A2DBEBF3-83BA-4882-BBF7-D79FC344A847}.Release SingleThreaded|Win32.Build.0 = Release SingleThreaded|Win32
+		{A2DBEBF3-83BA-4882-BBF7-D79FC344A847}.Release|Win32.ActiveCfg = Release|Win32
+		{A2DBEBF3-83BA-4882-BBF7-D79FC344A847}.Release|Win32.Build.0 = Release|Win32
+		{A2DBEBF3-83BA-4882-BBF7-D79FC344A847}.ServerDebug|Win32.ActiveCfg = ServerDebug|Win32
+		{A2DBEBF3-83BA-4882-BBF7-D79FC344A847}.ServerDebug|Win32.Build.0 = ServerDebug|Win32
+		{A2DBEBF3-83BA-4882-BBF7-D79FC344A847}.ServerRelease|Win32.ActiveCfg = ServerRelease|Win32
+		{A2DBEBF3-83BA-4882-BBF7-D79FC344A847}.ServerRelease|Win32.Build.0 = ServerRelease|Win32
+		{A2DBEBF3-83BA-4882-BBF7-D79FC344A847}.ServerWatson|Win32.ActiveCfg = ServerWatson|Win32
+		{A2DBEBF3-83BA-4882-BBF7-D79FC344A847}.ServerWatson|Win32.Build.0 = ServerWatson|Win32
+		{A2DBEBF3-83BA-4882-BBF7-D79FC344A847}.Watson|Win32.ActiveCfg = Watson|Win32
+		{A2DBEBF3-83BA-4882-BBF7-D79FC344A847}.Watson|Win32.Build.0 = Watson|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

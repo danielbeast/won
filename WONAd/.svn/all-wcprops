@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAd
+END
+Ad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAd/Ad.cpp
+END
+AdInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAd/AdInterface.cpp
+END
+WONNetCommInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAd/WONNetCommInterface.cpp
+END
+AdInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAd/AdInterface.h
+END
+WONNetCommInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAd/WONNetCommInterface.h
+END
+vssver.scc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONAd/vssver.scc
+END

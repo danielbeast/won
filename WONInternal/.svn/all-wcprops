@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal
+END
+vssver.scc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/vssver.scc
+END
+RehupOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/RehupOp.cpp
+END
+FilePushOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/FilePushOp.h
+END
+ActivatePatchOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/ActivatePatchOp.h
+END
+GetVersionListOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/GetVersionListOp.h
+END
+GetAccountFromCDKeyExOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/GetAccountFromCDKeyExOp.cpp
+END
+UpdateVersionOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/UpdateVersionOp.h
+END
+AddVersionOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/AddVersionOp.cpp
+END
+BaseMsgRequestOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/BaseMsgRequestOp.h
+END
+KeySubscribeOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/KeySubscribeOp.h
+END
+RegAuth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/RegAuth.cpp
+END
+RemoveVersionOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/RemoveVersionOp.cpp
+END
+MasterKeyOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/MasterKeyOp.cpp
+END
+GetAccountFromCDKeyOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/GetAccountFromCDKeyOp.h
+END
+BannedKeyOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/BannedKeyOp.h
+END
+PatchCleanupOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/PatchCleanupOp.cpp
+END
+TitleConfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/TitleConfig.cpp
+END
+AddPatchOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/AddPatchOp.h
+END
+FilePushOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/FilePushOp.cpp
+END
+ActivatePatchOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/ActivatePatchOp.cpp
+END
+GetVersionListOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/GetVersionListOp.cpp
+END
+RemovePatchOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/RemovePatchOp.h
+END
+UpdateVersionOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/UpdateVersionOp.cpp
+END
+RehupOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/RehupOp.h
+END
+GetPatchServerModuleList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/GetPatchServerModuleList.cpp
+END
+KeySubscribeOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/KeySubscribeOp.cpp
+END
+BaseMsgRequestOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/BaseMsgRequestOp.cpp
+END
+GetPatchServerModuleListOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/GetPatchServerModuleListOp.h
+END
+BannedKeyOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/BannedKeyOp.cpp
+END
+GetAccountFromCDKeyOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/GetAccountFromCDKeyOp.cpp
+END
+GetAccountFromCDKeyExOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/GetAccountFromCDKeyExOp.h
+END
+AddVersionOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/AddVersionOp.h
+END
+RegAuth.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/RegAuth.h
+END
+AddPatchOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/AddPatchOp.cpp
+END
+RemoveVersionOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/RemoveVersionOp.h
+END
+MasterKeyOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/MasterKeyOp.h
+END
+PatchCleanupOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/PatchCleanupOp.h
+END
+Internal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/Internal.cpp
+END
+RemovePatchOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/RemovePatchOp.cpp
+END
+TitleConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONInternal/TitleConfig.h
+END

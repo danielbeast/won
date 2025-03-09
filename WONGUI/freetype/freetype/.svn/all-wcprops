@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype
+END
+tttables.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/tttables.h
+END
+ftmoderr.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/ftmoderr.h
+END
+freetype.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/freetype.h
+END
+ftbbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/ftbbox.h
+END
+ftbdf.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/ftbdf.h
+END
+ftxf86.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/ftxf86.h
+END
+ftsizes.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/ftsizes.h
+END
+ftmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/ftmac.h
+END
+ftoutln.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/ftoutln.h
+END
+fttrigon.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/fttrigon.h
+END
+ftcache.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/ftcache.h
+END
+fttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/fttypes.h
+END
+ftsynth.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/ftsynth.h
+END
+ftsysio.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/ftsysio.h
+END
+fterrdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/fterrdef.h
+END
+ftchapters.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/ftchapters.h
+END
+ftmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/ftmm.h
+END
+ftlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/ftlist.h
+END
+ttnameid.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/ttnameid.h
+END
+tttags.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/tttags.h
+END
+fterrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/fterrors.h
+END
+ftsysmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/ftsysmem.h
+END
+ftrender.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/ftrender.h
+END
+vssver.scc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/vssver.scc
+END
+ftimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/ftimage.h
+END
+ftglyph.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/ftglyph.h
+END
+ftsystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/ftsystem.h
+END
+t1tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/t1tables.h
+END
+ftmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/ftmodule.h
+END
+ftsnames.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/%20world-opponent-network/wonapi/WONGUI/freetype/freetype/ftsnames.h
+END
